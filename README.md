@@ -26,3 +26,11 @@ A clean and simple mobile To-Do List application built using React Native and Ex
 ```bash
 npm install
 npx expo start
+
+## Future Improvements
+- Save tasks using AsyncStorage
+- Mark tasks as completed
+- Add animations or improved UI
+
+## Author
+Anand
