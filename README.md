@@ -22,10 +22,10 @@ A clean and simple mobile To-Do List application built using React Native and Ex
 </p>
 
 ## How to Run Locally
-
 ```bash
 npm install
 npx expo start
+```
 
 ## Future Improvements
 - Save tasks using AsyncStorage
@@ -33,4 +33,4 @@ npx expo start
 - Add animations or improved UI
 
 ## Author
-Anand
+**Anand**
