@@ -15,8 +15,8 @@ A clean and simple mobile To-Do List application built using React Native and Ex
 
 ## Screenshots
 
-![App Screenshot](assets/screenShot-1)
-![App Screenshot](assets/screenShot-2)
+![App Screenshot](assets/screenShot-1.png)
+![App Screenshot](assets/screenShot-2.png)
 
 ## How to Run Locally
 
